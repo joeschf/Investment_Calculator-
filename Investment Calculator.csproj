@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>Investment_Calculator</RootNamespace>
+    <UseWindowsForms>true</UseWindowsForms>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+
+</Project>
